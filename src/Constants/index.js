@@ -1,8 +1,8 @@
 export const CONSTANTS = {
     // BASE_URL_SOCKET: "http://localhost:5000",
     // BASE_URL: "http://localhost:5000/api/",
-    BASE_URL_SOCKET: "https://onevone-backend.onrender.com",
-    BASE_URL: "https://onevone-backend.onrender.com/api/",
+    BASE_URL_SOCKET: "https://onevone-backend-90vx.onrender.com",
+    BASE_URL: "https://onevone-backend-90vx.onrender.com",
     LOGIN: "auth/login",
     REGISTER: "auth/register",
     VERIFY_EMAIL: "auth/verify-email",
